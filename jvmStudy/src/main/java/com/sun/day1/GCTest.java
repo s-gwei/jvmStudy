@@ -1,4 +1,4 @@
-package com.atguigu.java1;
+package com.sun.day1;
 
 import java.util.ArrayList;
 import java.util.List;
