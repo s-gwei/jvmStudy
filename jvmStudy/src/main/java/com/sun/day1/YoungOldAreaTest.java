@@ -6,8 +6,10 @@ package com.sun.day1;
  * @create 2020  21:48
  */
 public class YoungOldAreaTest {
+    public  int a;
     public static void main(String[] args) {
-        byte[] buffer = new byte[1024 * 1024 * 20];//20m
-
+        int i ;
+        YoungOldAreaTest youngOldAreaTest = new YoungOldAreaTest();
+        System.out.println(i);
     }
 }
